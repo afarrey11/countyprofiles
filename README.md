@@ -1,5 +1,3 @@
-
-<html>
 <!--
  /* Font Definitions */
  @font-face
