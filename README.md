@@ -78,7 +78,7 @@ div.WordSection1
 
 <h1 align=center style='margin-top:0in;text-align:center'><b><u><span
 style='font-size:22.5pt;line-height:107%;font-family:"Arial",sans-serif;
-color:#333333'>ICD-10-CM Definitions for County Profiles/span></u></b></h1>
+color:#333333'>ICD-10-CM Definitions for County Profiles</span></u></b></h1>
 
 <p class=MsoNormal>&nbsp;</p>
 
