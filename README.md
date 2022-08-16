@@ -66,8 +66,6 @@ span.Heading1Char
 div.WordSection1
 	{page:WordSection1;}
 -->
-</style>
-
 </head>
 
 <body lang=EN-US style='word-wrap:break-word'>
